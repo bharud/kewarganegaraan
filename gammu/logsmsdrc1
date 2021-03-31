@@ -1,0 +1,8 @@
+Thu 2016/01/14 09:56:51 gammu-smsd[7680]: Warning: No PIN code in C:\xamppbaru\htdocs\cobagammu\gammu\smsdrc1 file
+Thu 2016/01/14 09:56:51 gammu-smsd[7680]: Connected to Database: cobagammu on localhost
+Thu 2016/01/14 09:56:51 gammu-smsd[7680]: Created Windows RW shared memory at 00CF0000
+Thu 2016/01/14 09:56:51 gammu-smsd[7680]: Starting phone communication...
+Thu 2016/01/14 09:56:55 gammu-smsd[7680]: Communication established
+Thu 2016/01/14 09:57:42 gammu-smsd[7680]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Thu 2016/01/14 09:58:26 gammu-smsd[7680]: Read 1 messages
+Thu 2016/01/14 10:05:00 gammu-smsd[7680]: Read 1 messages

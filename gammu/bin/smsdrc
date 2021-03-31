@@ -1,0 +1,18 @@
+[gammu]
+device = com7
+connection = at
+
+[smsd]
+service = mysql
+PIN = 1234
+logfile = smsdlog
+debuglevel = 0
+phoneid = rizki
+commtimeout = 30
+sendtimeout = 30
+
+user = root
+password = 
+pc = localhost
+database = kependudukan
+driver = mysql

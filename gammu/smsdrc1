@@ -1,0 +1,29 @@
+[gammu]
+# isikan no port di bawah ini
+port = com20:
+# isikan jenis connection di bawah ini
+connection = at115200
+
+[smsd]
+service = mysql
+logfile = C:/xamppbaru/htdocs/cobagammu/gammu/logsmsdrc1
+debuglevel = 0
+phoneid = cobagammu1
+commtimeout = 30
+sendtimeout = 600
+send = yes
+receive = yes
+checksecurity = 0
+#PIN = 1234
+
+# -----------------------------
+# Konfigurasi koneksi ke MySQL
+# -----------------------------
+pc = localhost
+
+# isikan user untuk akses ke MySQL
+user = root
+# isikan password user untuk akses ke MySQL
+password = toshiba
+# isikan nama database untuk Gammu
+database = cobagammu

@@ -1,0 +1,18 @@
+[gammu]
+device = com6
+connection = at115200
+
+[smsd]
+service = mysql
+PIN = 1234
+logfile = smsdlog
+debuglevel = 0
+phoneid = lukman
+commtimeout = 30
+sendtimeout = 30
+
+user = root
+password = tosiba
+pc = localhost
+database = dbsip_gammu
+driver = mysql
